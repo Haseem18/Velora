@@ -13,4 +13,4 @@ A premium dark-themed e-commerce product listing site with real-time filters and
 HTML • CSS • Vanilla JavaScript
 
 ## Live Demo
-[https://haseem18.github.io/Velora/]
+https://haseem18.github.io/Velora
